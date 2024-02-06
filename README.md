@@ -4,14 +4,15 @@ Junior Front-end Developer Intern @ NanLogical Consultancy Pvt Lmt.
 
 Front-end Developer | Full Stack Developer | Computer Science Engineer 
 <img align="right" width="380" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTN4bDd0ZGVubHViZWlpc25iNG41c2F4MGV0cjl4aDRkZDc4ZjhlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
-- 🔭 Here's my [portfolio](https://karankris.github.io/Portfolio_v3.0/)
-                                              
+- 🔭 Here's my [portfolio](https://karankris.github.io/Portfolio_v3.0/)                                              
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Web development
 - 🤔 I’m looking for help with Placements in FAANG
-- 💬 Ask me about Tech
+- 💬 Ask me about MERN, Java, Web development and AI 
 - 📫 How to reach me :
-<br />[<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://github.com/karankris/karankris/assets/104277479/4205817d-98c8-4f10-a9f4-5fadaf5c82ed)"/>](mailto:rkaran0930@gmail.com?subject=Your%20Subject%20Here&body=Your%20Message%20Here) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karanravichandar/)
+  
+  [<img height=50 width=50 src="https://github.com/karankris/karankris/assets/104277479/4205817d-98c8-4f10-a9f4-5fadaf5c82ed"/>](https://www.linkedin.com/in/karanravichandar/)
+  [<img height=50 width=50 src="https://github.com/karankris/karankris/assets/104277479/525a0e9f-4d9d-4018-9c26-dc3af6e2563c"/>](mailto:rkaran0930@gmail.com?subject=Your%20Subject%20Here&body=Your%20Message%20Here)
 - 😄 Pronouns: Techie
 
 
