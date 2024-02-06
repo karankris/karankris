@@ -3,7 +3,7 @@
 Junior Front-end Developer Intern @ NanLogical Consultancy Pvt Lmt.
 
 Front-end Developer | Full Stack Developer | Computer Science Engineer 
-<img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTN4bDd0ZGVubHViZWlpc25iNG41c2F4MGV0cjl4aDRkZDc4ZjhlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" width="380" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTN4bDd0ZGVubHViZWlpc25iNG41c2F4MGV0cjl4aDRkZDc4ZjhlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 - 🔭 Here's my [portfolio](https://karankris.github.io/Portfolio_v3.0/)                                                 
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Web development
