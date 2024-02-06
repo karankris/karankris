@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Karan R
+![image](https://github.com/karankris/karankris/assets/104277479/2849328c-8f68-4952-986b-892ae456dfa9)## Hi there 👋 It's me Karan R
 
 Junior Front-end Developer Intern @ NanLogical Consultancy Pvt Lmt.
 
@@ -18,6 +18,7 @@ Front-end Developer | Full Stack Developer | Computer Science Engineer
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://icons8.com/icon/iWw83PVcBpLw/canva"/><img height="50" width="50" src="https://github.com/karankris/karankris/assets/104277479/e424858a-2c4e-4a07-9842-06400db775b9"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://github.com/karankris/karankris/assets/104277479/dce2afdf-b3eb-4246-8fc2-339a6f493796"/><img height="50" width="50" src="https://github.com/karankris/karankris/assets/104277479/e424858a-2c4e-4a07-9842-06400db775b9"/> 
+
 
 
