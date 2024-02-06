@@ -12,7 +12,7 @@ Front-end Developer | Full Stack Developer | Computer Science Engineer
 - 😄 Pronouns: Techie
 - 📫 How to reach me :
   
-  [<img height=50 width=50 src="https://github.com/karankris/karankris/assets/104277479/edb8b207-59f7-420e-9c07-f5b274d75e7b"/>](https://www.linkedin.com/in/karanravichandar/)
+  [<img height=50 width=50 src="https://github.com/karankris/karankris/assets/104277479/1d1f4317-f7fc-4813-a7d4-fc2f71da525e"/>](https://www.linkedin.com/in/karanravichandar/)
   [<img height=50 width=50 src="https://github.com/karankris/karankris/assets/104277479/525a0e9f-4d9d-4018-9c26-dc3af6e2563c"/>](mailto:rkaran0930@gmail.com?subject=Your%20Subject%20Here&body=Your%20Message%20Here)
 
 
