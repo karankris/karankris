@@ -8,12 +8,14 @@ Front-end Developer | Full Stack Developer | Computer Science Engineer
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Web development
 - 🤔 I’m looking for help with Placements in FAANG
-- 💬 Ask me about MERN, Java, Web development and AI 
+- 💬 Ask me about MERN, Java, Web development and AI
+- - 😄 Pronouns: Techie
 - 📫 How to reach me :
   
-  [<img height=50 width=50 src="https://github.com/karankris/karankris/assets/104277479/4205817d-98c8-4f10-a9f4-5fadaf5c82ed"/>](https://www.linkedin.com/in/karanravichandar/)
+  [<img height=50 width=50 src="https://github.com/karankris/karankris/assets/104277479/ad4a2269-e2ba-4545-8de8-dc5e96bc4e57"/>](https://www.linkedin.com/in/karanravichandar/)
   [<img height=50 width=50 src="https://github.com/karankris/karankris/assets/104277479/525a0e9f-4d9d-4018-9c26-dc3af6e2563c"/>](mailto:rkaran0930@gmail.com?subject=Your%20Subject%20Here&body=Your%20Message%20Here)
-- 😄 Pronouns: Techie
+
+
 
 
 ### I code in
