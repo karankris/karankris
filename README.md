@@ -33,9 +33,6 @@ Front-end Developer | Full Stack Developer | Computer Science Engineer
   <img src="https://streak-stats.demolab.com?user=karankris&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-![Snake animation](https://github.com/karankris/karankris/blob/output/github-contribution-grid-snake.svg)
 
 
 
