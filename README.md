@@ -36,7 +36,7 @@ Front-end Developer | Full Stack Developer | Computer Science Engineer
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MuhammedFayazTS&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=karankrisTS&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 
