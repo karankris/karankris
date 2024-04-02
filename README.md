@@ -31,9 +31,6 @@ Front-end Developer | Full Stack Developer | Computer Science Engineer
   <img src="https://streak-stats.demolab.com?user=karankris&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)] (https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karankris&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
