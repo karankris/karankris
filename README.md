@@ -37,6 +37,12 @@ Front-end Developer | Full Stack Developer | Computer Science Engineer
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karankris&layout=compact&theme=vision-friendly-dark" height="220"/>
 </div>
 
+###
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=karankrishd&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/> 
 
 
 
