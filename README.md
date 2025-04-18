@@ -21,6 +21,7 @@ Front-end Developer | Full Stack Developer | Computer Science Engineer
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/><img height="50" width="50" src="https://github.com/karankris/karankris/assets/104277479/e424858a-2c4e-4a07-9842-06400db775b9"/>  <img height="50" width="50" src="https://github.com/karankris/karankris/assets/104277479/dce2afdf-b3eb-4246-8fc2-339a6f493796"/>
 
+https://skillicons.dev/icons?i=androidstudio,apple,bash,bootstrap,docker,express,figma,git,github,githubactions,gitlab,html,java,js,jquery,linkedin,linux,mongodb,mysql,nextjs,nodejs,powershell,py,pytorch,react,redux,stackoverflow,svg,tailwind,tensorflow,ts,vercel,vite,vscode,wordpress&perline=10
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
