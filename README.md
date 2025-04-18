@@ -3,7 +3,7 @@
 Front-end Developer | Full Stack Developer | Computer Science Engineer 
 <img align="right" width="380" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHUyOXg2cDYyYXJieXg3ODB1YzR3bmd1dGM5YzhrNHFnc2ZnOWp5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 Here's my [portfolio](https://karankris.github.io/Portfolio_v3.0/)                                              
+- 🔭 Here's my [portfolio](https://karanravichandar.vercel.app/)                                              
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Web development
 - 🤔 I’m looking for help with Placements in FAANG
